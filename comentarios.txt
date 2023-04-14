@@ -20,3 +20,14 @@ luego de haber realizado el ej 13
 fue realizado
 
 
+21 - nos muestra como nuestro repositorios ahora esta sincronicazo con un 
+proyecto git y nos indica el nombre de la branch y su upstream
+
+24 -  el comando git status no detecta los cambios que hay realizados en el
+repositorio remoto
+
+29.1 - al relizar checkout a la nueva branch, la consola me indica los 
+cambios que no se han realizado commit (en el paso anterior solo realize add)
+
+31 - figuran los repositorios del ej 30 como que no se guardaron los cambios (add 
+commit)
