@@ -1,0 +1,21 @@
+
+#AQUI LOS COMENTARIOS SOLICITADOS
+
+10 - Al ejecutar "git status" la consola nos muestra todo lo que hemos 
+creado, indicando que hay cambios realizados que aun no se han realizado
+commit: calulo2,fisica2,GIT,datosp.txt,info5
+
+12 - El mensaje es el mismo que el ejercicio 10, solo que se le suma 
+este archivo llamado "comentarios.txt". El motivo por el cual aparecian 
+los directorios calculo2, fisica2 y GITes debido a que no estaban vacios
+(ejercicio 8), y crear modificaciones dentro de los mismos sin haber
+realizado un commit, mantiene el estado de "cambios sin hacer commit" de todo
+el proyecto
+
+15 - Ahora todos los directorios y archivos estan etapa de stage y el archivo
+"datosp.txt" a quedado afuera debido a que se realizo cambios en el (ej14) 
+luego de haber realizado el ej 13
+
+
+
+
