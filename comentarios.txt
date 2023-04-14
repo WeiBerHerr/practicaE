@@ -16,6 +16,7 @@ el proyecto
 "datosp.txt" a quedado afuera debido a que se realizo cambios en el (ej14) 
 luego de haber realizado el ej 13
 
-
+18 - git loǵ nos muestra el commit realizado en el ej 17, su autor y cuando 
+fue realizado
 
 
